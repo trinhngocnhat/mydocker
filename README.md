@@ -64,3 +64,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+---
+
+### **Tóm tắt**
+1. Clone dự án từ GitHub.
+2. Tạo file `.env` và chỉnh sửa nếu cần.
+3. Dùng Docker để build và chạy container (`docker-compose up`).
+4. Truy cập ứng dụng tại `http://localhost:8080`.
+5. Kiểm tra và chạy migration nếu cần.
+
+Sau khi thực hiện các bước này, bạn của bạn có thể sử dụng dự án một cách bình thường.
